@@ -20,8 +20,8 @@ list_file=[
     "app.py",
     "main.py",
     "Dockerfile",
-    "requirements.txt"
-    "setup.py"
+    "requirements.txt",
+    "setup.py",
     "research/trials.ipynb"
 
 
